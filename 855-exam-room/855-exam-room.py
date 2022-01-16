@@ -7,13 +7,11 @@ class ExamRoom:
         self.first = -1
 
     def seat(self) -> int:
-        # print("hi",self.first,self.se)
         if(self.first == -1):
             idx = 0
             self.first = 0
         else:
             res, idx = 0,0
-            print(self.seats)
             ans = self.seats[0] - 0
             if(ans > res):
                 res = ans
@@ -24,17 +22,14 @@ class ExamRoom:
                 if ans > res:
                     res = ans
                     idx = i
-            # end
             ans = self.size-1 - self.seats[-1]
             if ans > res:
                 res = ans
                 idx = self.size-1
         bisect.insort(self.seats,idx)
-        print(idx)
         return idx
 
     def leave(self, p: int) -> None:
-        print(self.seats)
         self.seats.remove(p)
         if(len(self.seats) == 0):
             self.first = -1
