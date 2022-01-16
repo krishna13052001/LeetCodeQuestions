@@ -1,6 +1,5 @@
 import bisect
 class ExamRoom:
-
     def __init__(self, n: int):
         self.size = n
         self.seats = []
