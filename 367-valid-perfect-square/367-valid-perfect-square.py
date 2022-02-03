@@ -1,8 +1,13 @@
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
-        i = 1
-        while(i*i<num):
-            i +=1
-        if(i*i==num):
-            return True
+        low,high=1,100000
+        while(low<=high):
+            mid = low + (high-low)//2
+            target = mid*mid
+            if(target == num):
+                return True
+            elif(target>num):
+                high = mid-1
+            else:
+                low =mid+1
         return False
