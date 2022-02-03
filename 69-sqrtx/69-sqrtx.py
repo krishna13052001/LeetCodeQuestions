@@ -3,7 +3,7 @@ class Solution:
     def mySqrt(self, x: int) -> int:
         low = 0
         ans = 0
-        end = 10000203940
+        end = 1000020394
         while(low<=end):
             mid = low+(end-low)//2
             # print(mid,end)
