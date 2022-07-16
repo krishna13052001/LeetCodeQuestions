@@ -17,7 +17,6 @@ public class Solution {
         ListNode fast = head;
         ListNode slow = head;
         while(fast != null && fast.next != null){
-            System.out.println("Slow value "+slow.val+" fast value "+fast.val);
             slow = slow.next;
             fast = fast.next.next;
             if(fast == slow){
