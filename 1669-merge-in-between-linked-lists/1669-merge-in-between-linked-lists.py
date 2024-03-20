@@ -16,11 +16,11 @@ class Solution:
                 break
             temp = temp.next
             count += 1
-        if True:
-            temp = list2
-            while temp.next != None:
-                temp = temp.next
-            node1.next = list2
-            temp.next = node2
+        
+        temp = list2
+        while temp.next != None:
+            temp = temp.next
+        node1.next = list2
+        temp.next = node2
         return list1
         
