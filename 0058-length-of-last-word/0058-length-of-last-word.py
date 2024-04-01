@@ -1,4 +1,14 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
-        s = s.strip(" ")
-        return len(s.split(" ")[-1])
+        count = 0
+        prevCount = 0
+        for i in s:
+            if i == " ":
+                if count != 0:
+                    prevCount = count
+                count = 0
+            else:
+                count += 1
+        if count == 0:
+            return prevCount
+        return count
