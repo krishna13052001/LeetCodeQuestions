@@ -7,6 +7,6 @@ class Solution:
             if i == "(":
                 open_count += 1
             elif i == ")":
+                count = max(count, open_count)
                 open_count -= 1
-            count = max(count, open_count)
         return count
