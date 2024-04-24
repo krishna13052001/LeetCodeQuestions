@@ -1,15 +1,16 @@
 class Solution:
-    dp=[-1]*38
-    dp[0]=0
-    dp[1]=1
-    dp[2]=1
-    def findNTri(self,n):
-        if(n<0):
-            return 0
-        if(self.dp[n]!=-1):
-            return self.dp[n]
-        else:
-            self.dp[n] = self.findNTri(n-1)+self.findNTri(n-2)+self.findNTri(n-3)
-            return self.dp[n]
     def tribonacci(self, n: int) -> int:
-        return self.findNTri(n)
+        first_ele, second_ele, third_ele = 0, 1, 1
+        if n == 0:
+            return first_ele
+        elif n ==.1:
+            return second_ele
+        elif n == 2:
+            return third_ele
+        else:
+            for i in range(n-2):
+                temp = first_ele + second_ele + third_ele
+                first_ele = second_ele
+                second_ele = third_ele
+                third_ele = temp
+            return third_ele
