@@ -1,9 +1,9 @@
 class Solution:
     dp = {}
     def climbStairs(self, n: int) -> int:
-        if n <= 0 or n == 1:
+        if n <= 1:
             return 1
-        left, right = 0 , 0
+        left, right = 0 ,0
         if self.dp.get(n-1,-1) != -1:
             left = self.dp[n-1]
         else:
@@ -13,5 +13,6 @@ class Solution:
             right = self.dp[n-2]
         else:
             right = self.climbStairs(n-2)
-            self.dp[n-2] = right
+            self.dp[n-1] = right
         return left + right
+        
