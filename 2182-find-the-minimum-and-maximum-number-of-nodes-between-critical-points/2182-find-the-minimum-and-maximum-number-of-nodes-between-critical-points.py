@@ -14,7 +14,6 @@ class Solution:
 
         while cur.next:
             if (cur.val > prev.val and cur.val > cur.next.val) or (cur.val < prev.val and cur.val < cur.next.val):
-                print(cur_ind)
                 if prev_critical_ind is not None:
                     res[0] = min(res[0], cur_ind - prev_critical_ind) if res[0] != -1 else cur_ind - prev_critical_ind
                 else: 
