@@ -12,6 +12,6 @@ class Solution:
                 if len(stack) > 0 and stack[-1] == abs(asteroids[i]):
                     stack.pop()
                 else:
-                    if(len(stack) ==0. or stack[-1] < 0):
+                    if(len(stack) ==0 or stack[-1] < 0):
                         stack.append(asteroids[i])
         return stack
