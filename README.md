@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Design
 |  |
@@ -190,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0937-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
