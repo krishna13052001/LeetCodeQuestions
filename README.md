@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0726-number-of-atoms) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
@@ -198,4 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
