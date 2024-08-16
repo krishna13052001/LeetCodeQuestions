@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
+| [0624-maximum-distance-in-arrays](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0624-maximum-distance-in-arrays) |
 | [0735-asteroid-collision](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1818-maximum-score-from-removing-substrings) |
