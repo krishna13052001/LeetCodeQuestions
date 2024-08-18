@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0624-maximum-distance-in-arrays](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
