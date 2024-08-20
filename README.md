@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1293-three-consecutive-odds) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0263-ugly-number](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
+| [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2645-pass-the-pillow) |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
+| [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -262,4 +265,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
+| [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
