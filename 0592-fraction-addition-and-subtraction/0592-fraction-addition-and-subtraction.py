@@ -1,7 +1,6 @@
 class Solution:
     def fractionAddition(self, expression: str) -> str:
         nums = list(map(int, re.findall(r'[+-]?\d+', expression)))
-        print("nums: ", nums)
         numerator = 0
         denominator = 1
         
