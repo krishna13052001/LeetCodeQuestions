@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 ## Linked List
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2727-number-of-senior-citizens](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 ## Stack
 |  |
 | ------- |
