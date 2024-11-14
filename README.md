@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1962-single-threaded-cpu) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2727-number-of-senior-citizens](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2727-number-of-senior-citizens) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sorting
 |  |
 | ------- |
