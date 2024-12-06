@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1962-single-threaded-cpu) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2846-robot-collisions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
@@ -94,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 ## Linked List
 |  |
