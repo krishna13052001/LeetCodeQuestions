@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Game Theory
 |  |
 | ------- |
