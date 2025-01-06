@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1962-single-threaded-cpu) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2727-number-of-senior-citizens) |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Game Theory
