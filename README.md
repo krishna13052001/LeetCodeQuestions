@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2358-number-of-ways-to-split-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -306,4 +308,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
