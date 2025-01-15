@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 ## Linked List
@@ -312,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2292-counting-words-with-a-given-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
