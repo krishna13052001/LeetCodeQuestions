@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
@@ -321,4 +323,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2509-minimize-xor) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
