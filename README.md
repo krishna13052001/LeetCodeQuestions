@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0135-candy) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Divide and Conquer
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
