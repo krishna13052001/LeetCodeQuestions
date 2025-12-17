@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0726-number-of-atoms) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 | [1962-single-threaded-cpu](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1962-single-threaded-cpu) |
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
