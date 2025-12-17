@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -231,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 | [1962-single-threaded-cpu](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1962-single-threaded-cpu) |
@@ -242,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -250,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -340,4 +347,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
