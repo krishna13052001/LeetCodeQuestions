@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0135-candy) |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -221,10 +223,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -332,4 +336,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0062-unique-paths) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
