@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0726-number-of-atoms](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
@@ -239,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 | [1962-single-threaded-cpu](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1962-single-threaded-cpu) |
@@ -260,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
