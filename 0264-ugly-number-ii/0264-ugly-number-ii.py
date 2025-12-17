@@ -1,14 +1,16 @@
 class Solution:
     def nthUglyNumber(self, n: int) -> int:
-        nums = [1]
-        i2 = i3 = i5 = 0
+        ugly = [1] * n
+        i2, i3, i5 = 0, 0, 0
+
         for i in range(1, n):
-            next_num = min(nums[i2] * 2, nums[i3] * 3, nums[i5] * 5)
-            nums.append(next_num)
-            if next_num == nums[i2] * 2:
+            next2, next3, next5 = ugly[i2] * 2, ugly[i3] * 3, ugly[i5] * 5
+            value = min(next2, next3, next5)
+            ugly[i] = value
+            if value == next2:
                 i2 += 1
-            if next_num == nums[i3] * 3:
+            if value == next3:
                 i3 += 1
-            if next_num == nums[i5] * 5:
+            if value == next5:
                 i5 += 1
-        return nums[n - 1]
+        return ugly[-1]
