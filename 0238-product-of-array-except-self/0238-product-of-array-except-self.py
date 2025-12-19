@@ -6,10 +6,8 @@ class Solution:
         for idx in range(1, len(nums)):
             prefix_product[idx] = prefix_product[idx-1] * nums[idx-1]
 
+        sufix_products = 1 
         for idx in range(len(nums)-2, -1, -1):
-            sufix_product[idx] = sufix_product[idx+1] * nums[idx+1]
-        
-        result = [1] * len(nums)
-        for i in range(len(nums)):
-            result[i] = prefix_product[i] * sufix_product[i]
-        return result
+            sufix_products *= nums[idx+1]
+            prefix_product[idx] *= sufix_products
+        return prefix_product
