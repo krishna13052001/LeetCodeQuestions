@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0621-task-scheduler) |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
+| [0523-continuous-subarray-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0592-fraction-addition-and-subtraction](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1642-water-bottles) |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
