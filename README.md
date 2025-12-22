@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0435-non-overlapping-intervals) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0937-online-stock-span) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1537-maximum-score-after-splitting-a-string) |
