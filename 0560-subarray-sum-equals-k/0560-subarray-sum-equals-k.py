@@ -5,7 +5,6 @@ class Solution:
         res = 0
         for idx, num in enumerate(nums):
             count += num
-            if count - k in d:
-                res += d[count-k]
+            res += d.get(count-k, 0)
             d[count] = d.get(count, 0) + 1
         return res
