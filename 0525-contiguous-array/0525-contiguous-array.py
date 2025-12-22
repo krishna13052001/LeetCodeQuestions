@@ -1,17 +1,21 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
-        longest_sum_array_length = 0
-        sum_of_values = 0
         d = {}
-        for i in range(len(nums)):
-            if nums[i] ==0 :
-                sum_of_values -= 1
+        count_for_zeros = 0
+        count_for_ones = 0
+        result = 0
+        for idx, num in enumerate(nums):
+            if num == 1:
+                count_for_ones += 1
             else:
-                sum_of_values += 1
-            if sum_of_values == 0:
-                longest_sum_array_length = i + 1
-            elif d.get(sum_of_values, -1 ) != -1:
-                longest_sum_array_length = max(longest_sum_array_length, i - d[sum_of_values])
-            else:
-                d[sum_of_values] = i
-        return longest_sum_array_length
+                count_for_zeros += 1
+            diff = count_for_ones - count_for_zeros
+            if diff not in d:
+                d[diff] = idx
+            if diff == 0:
+                result = max(result, 2 * count_for_ones)
+            elif diff in d:
+                result = max(result, idx - d[diff])
+        print(d)
+        return result
+                
