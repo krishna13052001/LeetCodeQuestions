@@ -16,6 +16,5 @@ class Solution:
                 result = max(result, 2 * count_for_ones)
             elif diff in d:
                 result = max(result, idx - d[diff])
-        print(d)
         return result
                 
