@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1537-maximum-score-after-splitting-a-string) |
