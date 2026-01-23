@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0057-insert-interval) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0064-minimum-path-sum) |
