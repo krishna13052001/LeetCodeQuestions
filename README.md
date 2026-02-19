@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0057-insert-interval) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1642-water-bottles) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
