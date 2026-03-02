@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -392,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
 ## Prefix Sum
