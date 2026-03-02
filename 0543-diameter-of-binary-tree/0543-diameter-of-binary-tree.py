@@ -13,7 +13,6 @@ class Solution:
             left = find_ans(head.left)
             right = find_ans(head.right)
             self.res = max(self.res, left + right)
-            print(self.res)
             return 1 + max(left, right)
         find_ans(root)
         return self.res
