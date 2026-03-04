@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
 |  |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
 | ------- |
@@ -405,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0617-merge-two-binary-trees) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
 |  |
 | ------- |
