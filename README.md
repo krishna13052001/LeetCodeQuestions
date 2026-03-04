@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0135-candy) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0169-majority-element) |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0222-count-complete-tree-nodes) |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0222-count-complete-tree-nodes) |
@@ -307,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
