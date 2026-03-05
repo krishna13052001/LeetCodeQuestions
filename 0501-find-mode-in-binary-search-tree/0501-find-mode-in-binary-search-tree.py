@@ -8,26 +8,39 @@ class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
         max_streak = curr_streak = curr_num = 0
         ans = []
-        def dfs(node):
-            nonlocal max_streak, curr_streak, curr_num, ans
-            if not node:
-                return
-            
-            dfs(node.left)
-
-            num = node.val
-            if curr_num == num:
-                curr_streak += 1
+        curr = root
+        while curr:
+            if curr.left == None:
+                print(curr.val)
+                if curr.val == curr_num:
+                    curr_streak += 1
+                else:
+                    curr_num = curr.val
+                    curr_streak = 1
+                if curr_streak == max_streak:
+                    ans.append(curr.val)
+                elif curr_streak > max_streak:
+                    ans = [curr.val]
+                    max_streak = curr_streak
+                curr = curr.right
             else:
-                curr_num = num
-                curr_streak = 1
-            
-            if curr_streak == max_streak:
-                ans.append(num)
-            elif curr_streak > max_streak:
-                ans = [num]
-                max_streak = curr_streak
-
-            dfs(node.right)
-        dfs(root)
+                prev = curr.left
+                while prev.right and prev.right != curr:
+                    prev = prev.right
+                if prev.right == None:
+                    prev.right = curr
+                    curr = curr.left
+                else:
+                    prev.right = None
+                    if curr.val == curr_num:
+                        curr_streak += 1
+                    else:
+                        curr_num = curr.val
+                        curr_streak = 1
+                    if curr_streak == max_streak:
+                        ans.append(curr.val)
+                    elif curr_streak > max_streak:
+                        ans = [curr.val]
+                        max_streak = curr_streak
+                    curr = curr.right
         return ans
