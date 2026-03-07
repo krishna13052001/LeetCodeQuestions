@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
 ## Sliding Window
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Design
 |  |
