@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -518,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0052-n-queens-ii) |
