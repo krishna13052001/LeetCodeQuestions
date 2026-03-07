@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
@@ -513,4 +514,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
