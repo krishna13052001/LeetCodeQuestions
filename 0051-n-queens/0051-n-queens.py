@@ -1,33 +1,36 @@
 class Solution:
+    def copy_board(self, board):
+        new_board = []
+        for idx in range(len(board)):
+            new_board.append(board[idx][:])
+        return new_board
+    
+    def helper(self, col, board, ans, leftRow, upperDiagonal, lowerDiagonal, n):
+        if col == n:
+            new_board = self.copy_board(board)
+            ans.append(new_board)
+            return
+        
+        for row in range(n):
+            if leftRow[row] == 0 and lowerDiagonal[row + col] == 0 and upperDiagonal[row - col] == 0:
+                board[row][col] = "Q"
+                leftRow[row] = 1
+                lowerDiagonal[row + col] = 1
+                upperDiagonal[row - col] = 1
+                self.helper(col + 1, board, ans, leftRow, upperDiagonal, lowerDiagonal, n)
+                board[row][col] = "."
+                leftRow[row] = 0
+                lowerDiagonal[row + col] = 0
+                upperDiagonal[row - col] = 0
+
     def solveNQueens(self, n):
-        def copy_board(state):
-            board = []
-            for row in state:
-                board.append("".join(row))
-            return board
-
-        def backtrack(row, diagonals, anti_diagonals, cols, state):
-            if row == n:
-                ans.append(copy_board(state))
-                return
-
-            for col in range(n):
-                curr_diagonal = row - col
-                curr_anti_diagonal = row + col
-                if (col in cols or curr_diagonal in diagonals or curr_anti_diagonal in anti_diagonals):
-                    continue
-
-                cols.add(col)
-                diagonals.add(curr_diagonal)
-                anti_diagonals.add(curr_anti_diagonal)
-                state[row][col] = "Q"
-                backtrack(row + 1, diagonals, anti_diagonals, cols, state)
-                cols.remove(col)
-                diagonals.remove(curr_diagonal)
-                anti_diagonals.remove(curr_anti_diagonal)
-                state[row][col] = "."
-
         ans = []
-        empty_board = [["."] * n for _ in range(n)]
-        backtrack(0, set(), set(), set(), empty_board)
+        board = [["."] * n for _ in range(n)]
+        leftRow = [0] * n
+        upperDiagonal = [0] * ( 2 * n  - 1)
+        lowerDiagonal = [0] * (2 * n - 1)
+        self.helper(0, board, ans, leftRow, upperDiagonal, lowerDiagonal, n)
+        for idx in range(len(ans)):
+            for jdx in range(len(ans[idx])):
+                ans[idx][jdx] = "".join(ans[idx][jdx])
         return ans
