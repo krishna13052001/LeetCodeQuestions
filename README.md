@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0060-permutation-sequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
