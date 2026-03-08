@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0617-merge-two-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0617-merge-two-binary-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 ## Iterator
 |  |
 | ------- |
@@ -530,4 +533,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0052-n-queens-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
