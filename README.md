@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0617-merge-two-binary-trees) |
+| [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Divide and Conquer
 |  |
@@ -484,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0617-merge-two-binary-trees) |
+| [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
 |  |
@@ -532,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 ## Iterator
 |  |
 | ------- |
