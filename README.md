@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0617-merge-two-binary-trees) |
+| [0785-is-graph-bipartite](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0617-merge-two-binary-trees) |
+| [0785-is-graph-bipartite](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 ## Iterator
 |  |
@@ -552,4 +555,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
