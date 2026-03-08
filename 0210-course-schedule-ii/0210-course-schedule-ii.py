@@ -4,8 +4,8 @@ class Solution:
         graph = [[] for _ in range(numCourses)]
         indegre = [0] * numCourses
         for edge in prerequisites:
-            graph[edge[0]].append(edge[1])
-            indegre[edge[1]] += 1
+            graph[edge[1]].append(edge[0])
+            indegre[edge[0]] += 1
         
         queue = deque()
         for idx in range(numCourses):
@@ -20,7 +20,6 @@ class Solution:
                 indegre[neighbor] -= 1
                 if indegre[neighbor] == 0:
                     queue.append(neighbor)
-        for idx in range(numCourses):
-            if indegre[idx] != 0:
-                return []
-        return toposort[::-1]
+        if len(toposort) == numCourses:
+            return toposort
+        return []
