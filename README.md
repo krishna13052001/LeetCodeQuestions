@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0617-merge-two-binary-trees) |
 | [0785-is-graph-bipartite](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0948-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1631-path-with-minimum-effort) |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1143-longest-common-subsequence) |
 | [1240-stone-game-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -504,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0617-merge-two-binary-trees) |
 | [0785-is-graph-bipartite](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -577,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -584,4 +589,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
