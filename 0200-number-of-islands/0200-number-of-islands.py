@@ -1,33 +1,30 @@
-
+from collections import deque
+from typing import List
 
 class Solution:
-    def find(self,mat,i,j):
-        if(i< 0 or j<0):
-            return
-        try:
-            if(mat[i][j] == '1'):
-                mat[i][j] = '0'
-                # print(i,j,mat[i][j])
-                self.find(mat,i,j+1)
-                self.find(mat,i,j-1)
-                self.find(mat,i+1,j)
-                self.find(mat,i-1,j)
-        except:
-            pass
-
     def numIslands(self, grid: List[List[str]]) -> int:
-        n = len(grid)
-        m = len(grid[0])
-        mat = grid
-        count_1 = 0
+        if not grid or not grid[0]:
+            return 0
+        rows, cols = len(grid), len(grid[0])
+        visited = [[False] * cols for _ in range(rows)]
+        
+        def bfs(r: int, c: int):
+            queue = deque([(r, c)])
+            visited[r][c] = True
+            dirs = [(-1, 0), (0, 1), (1, 0), (0, -1)]
+            while queue:
+                row, col = queue.popleft()
+                for dr, dc in dirs:
+                    nr, nc = row + dr, col + dc
+                    if (0 <= nr < rows and 0 <= nc < cols and 
+                        not visited[nr][nc] and grid[nr][nc] == "1"):
+                        visited[nr][nc] = True
+                        queue.append((nr, nc))
+        
         count = 0
-        i,j = 0,0
-        while(i < n and j < m):
-            if(mat[i][j] == '1'):
-                count += 1
-                self.find(mat,i,j)
-            j += 1
-            if(j >= m):
-                i += 1
-                j = 0
-        return count      
+        for r in range(rows):
+            for c in range(cols):
+                if not visited[r][c] and grid[r][c] == "1":
+                    count += 1
+                    bfs(r, c)
+        return count
