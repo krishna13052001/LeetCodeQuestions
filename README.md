@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0617-merge-two-binary-trees) |
 | [0785-is-graph-bipartite](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0617-merge-two-binary-trees) |
 | [0785-is-graph-bipartite](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
@@ -556,4 +558,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
