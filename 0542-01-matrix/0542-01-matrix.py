@@ -1,27 +1,28 @@
+from typing import List
+from collections import deque
 class Solution:
     def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
         if not mat or not mat[0]:
-            return []
-
-        m, n = len(mat), len(mat[0])
+            return mat
+        rows = len(mat)
+        cols = len(mat[0])
+        visited = [[False] * cols for _ in range(rows)]
+        res = [[0] * cols for _ in range(rows)]
         queue = deque()
-        MAX_VALUE = m * n
-        
-        for i in range(m):
-            for j in range(n):
-                if mat[i][j] == 0:
-                    queue.append((i, j))
-                else:
-                    mat[i][j] = MAX_VALUE
-        
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-        
+        for row in range(rows):
+            for col in range(cols):
+                if mat[row][col] == 0:
+                    queue.append((row, col, 0))
+                    visited[row][col] = True
         while queue:
-            row, col = queue.popleft()
+            row, col, distance = queue.popleft()
+            res[row][col] = distance
+            directions = [(-1, 0), (1, 0), (0, 1), (0, -1)]
             for dr, dc in directions:
-                r, c = row + dr, col + dc
-                if 0 <= r < m and 0 <= c < n and mat[r][c] > mat[row][col] + 1:
-                    queue.append((r, c))
-                    mat[r][c] = mat[row][col] + 1
-        
-        return mat
+                nrow = row + dr
+                ncol = col + dc
+                if 0 <= nrow < rows and 0 <= ncol < cols and not visited[nrow][ncol]:
+                    visited[nrow][ncol] = True
+                    # res[nrow][ncol] = distance + 1
+                    queue.append((nrow, ncol, distance + 1))
+        return res
