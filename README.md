@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1962-single-threaded-cpu) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/2509-minimize-xor) |
