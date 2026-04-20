@@ -4,5 +4,5 @@ class Solution:
         profit = 0
         for price in prices:
             buy = min(price, buy)
-            profit = max(profit, abs(buy - price))
+            profit = max(profit, price - buy)
         return profit
