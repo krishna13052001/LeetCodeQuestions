@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/1046-max-consecutive-ones-iii) |
@@ -618,4 +619,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
