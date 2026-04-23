@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0060-permutation-sequence](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0523-continuous-subarray-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0523-continuous-subarray-sum) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -626,4 +628,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
