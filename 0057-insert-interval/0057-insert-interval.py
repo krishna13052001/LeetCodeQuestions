@@ -14,5 +14,3 @@ class Solution:
             res.append(intervals[idx])
             idx += 1
         return res
-
-        
