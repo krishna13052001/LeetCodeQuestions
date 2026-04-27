@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0125-valid-palindrome) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
