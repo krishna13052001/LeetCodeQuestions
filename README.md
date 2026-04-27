@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
