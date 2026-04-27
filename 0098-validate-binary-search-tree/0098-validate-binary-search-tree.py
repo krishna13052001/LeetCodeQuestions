@@ -12,10 +12,8 @@ class Solution:
         def dfs(root: Optional[TreeNode], min_val: float, max_val: float) -> bool:
             if not root:
                 return True
-            
             if root.val <= min_val or root.val >= max_val:
                 return False
-            
             return dfs(root.left, min_val, root.val) and dfs(root.right, root.val, max_val)
         
         return dfs(root, float("-inf"), float("inf"))
