@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0678-valid-parenthesis-string) |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
