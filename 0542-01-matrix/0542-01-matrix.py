@@ -23,6 +23,5 @@ class Solution:
                 ncol = col + dc
                 if 0 <= nrow < rows and 0 <= ncol < cols and not visited[nrow][ncol]:
                     visited[nrow][ncol] = True
-                    # res[nrow][ncol] = distance + 1
                     queue.append((nrow, ncol, distance + 1))
         return res
