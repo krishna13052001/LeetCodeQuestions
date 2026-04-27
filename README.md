@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0264-ugly-number-ii) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0409-longest-palindrome) |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -668,4 +671,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
