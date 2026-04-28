@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0450-delete-node-in-a-bst) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0450-delete-node-in-a-bst) |
@@ -541,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krishna13052001/LeetCodeQuestions/tree/master/0501-find-mode-in-binary-search-tree) |
